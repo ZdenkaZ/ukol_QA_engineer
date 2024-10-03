@@ -29,7 +29,7 @@
 14. Status: Open
 
 15. Přílohy:
-![V chybove hlasce chybi datum narozeni](name_without_birthd.npg)
+![V chybove hlasce chybi datum narozeni](https://github.com/ZdenkaZ/ukol_QA_engineer/blob/main/name_without_birthd.png)
 
 
 
