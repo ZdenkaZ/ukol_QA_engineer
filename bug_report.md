@@ -29,6 +29,7 @@
 14. Status: Open
 
 15. Přílohy:
+![V chybove hlasce chybi datum narozeni](e:\Zdenka_different\JavaScript\ukol_backup\jmeno_bez_data_nar.png)
 
 
 
