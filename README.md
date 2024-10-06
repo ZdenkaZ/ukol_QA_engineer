@@ -8,9 +8,11 @@ Dokument *README.md* by se hodil k uvedení **zadání úlohy**. Protože je ale
 K zápisu chyb jsem použila **formulář**. Vyplněné formuláře jsou vhodné při řešení každé chyby zvlášť. Členové teamu vývojářů si tak mohou rozdělit řešení chyb nezávisle na dokončení řešení ostatních chyb. 
 Ve formuláři hlášení o chybách jsem zahrnula **položky** podle svého nejlepšího úsudku. V závislosti na zvoleném přístupu k vývoji a aktualizaci produktu by se seznam lišil počtem a výběrem konktrétních položek.
 
-Seznam chyb je seřazen podle jejich urgence.
+Seznam chyb je **seřazen** podle jejich urgence.
 
-Při vypracování úkolu jsem předpokládala, že pod termínem "pacient" je myšlena osoba ošetřovaná u doktora nezávisle na pohlaví ošetřovaného. Vyskytuje-li se popsaná chyba v závislosti na zaškrtnutí polí "Muž", "Žena", uvadím tuto závislost v hlášení o chybách.
+Při vypracování úkolu jsem předpokládala, že pod termínem **"pacient"** je myšlena osoba ošetřovaná u doktora nezávisle na pohlaví ošetřovaného. Vyskytuje-li se popsaná chyba v závislosti na zaškrtnutí polí "Muž", "Žena", uvadím tuto závislost v hlášení o chybách.
+
+Na GitHub se bohužel nezobrazuje většina **obrázků**. K e-mailu, ve kterém jsem Vám poslala odkaz na tento repozitář, jsem přiložila také zip složku se všemi použitými obrázky. Názvy souborů obrázků jsou nestandardně dlouhé, protože jsem je změnila, aby byly shodné s popisky v markdownovém souboru zveřejněném na GitHub a aby pomocí popisku bylo možné příslušný obrázek lehce identifikovat. 
 
 ### Upřesnění k položkám obsaženým ve formuláři:
 
